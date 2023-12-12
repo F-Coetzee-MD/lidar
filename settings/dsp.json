@@ -1,0 +1,10 @@
+{
+    "fft cutoff %": 40,
+
+    "moving avg size": 10,
+
+    "butterworth order": 10,
+    "butterworth cutoff": 50,
+
+    "signal amplifier": 1.5
+}

@@ -1,0 +1,6 @@
+{
+    "lidarA IP": "192.168.100.191",
+    "lidarB IP": "192.168.100.192",
+    "lidarA PORT": 2112,
+    "lidarB PORT": 2112
+}
